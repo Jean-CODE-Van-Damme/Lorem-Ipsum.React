@@ -5,7 +5,7 @@
 
 .large_div {
   width: 500px;
-  height: 180px;
   background-color: grey;
   padding: 5px;
+  margin-bottom: 20px;
 }
